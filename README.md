@@ -122,7 +122,7 @@ Criar uma nova pasta chamada **keylogger**
 Instalar biblioteca pynput no console:
 **pip install pynput**
 
-<h3>Perguntas:</3>
+<h3>Perguntas:</h3>
 1 - Vai ficar em execução em segundo plano?
 2 - Toda vez que o usuário digitar uma tecla, o programa vai capturar essa tecla.
 3 - O que for digitado, será gravado em um arquivo .txt.
@@ -247,7 +247,7 @@ with keyboard.Listener(on_press=on) as listener:
 ```
 
 <h2>Como podemos nos proteger?</h2>
-- Antivírus e firewalls atualizados;
-- Monitoramento de comportamentos anormais.(detecção por comportamento)
-- Conciência do usuário.
-- Ambientes isolados para testes
++  Antivírus e firewalls atualizados;
++  Monitoramento de comportamentos anormais.(detecção por comportamento)
++  Conciência do usuário.
++  Ambientes isolados para testes
