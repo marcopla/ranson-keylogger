@@ -247,7 +247,7 @@ with keyboard.Listener(on_press=on) as listener:
 ```
 
 <h2>Como podemos nos proteger?</h2>
-+  Antivírus e firewalls atualizados;
-+  Monitoramento de comportamentos anormais.(detecção por comportamento)
-+  Conciência do usuário.
-+  Ambientes isolados para testes
++Antivírus e firewalls atualizados;
++Monitoramento de comportamentos anormais.(detecção por comportamento)
++Conciência do usuário.
++Ambientes isolados para testes
